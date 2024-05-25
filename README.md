@@ -23,6 +23,7 @@ Image displayed on LCD when temperature reaches setpoint and fluctuates stably w
 </div>
 
 The screen displays the relationship between set point and temperature through STMStudio software
+PID setup parameters are kp = 120, ki = 4, kd = 5
 
 <div style="display: flex; justify-content: center;">
    <div style="width:300px;">
