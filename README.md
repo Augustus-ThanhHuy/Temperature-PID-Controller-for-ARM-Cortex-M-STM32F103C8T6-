@@ -16,6 +16,8 @@ It has all the functions of a thermostat including:
 ## Result
 Image displayed on LCD when temperature reaches setpoint and fluctuates stably with error 0.1 - 0.2℃ (The setpoint in the project is set to 37℃)
 
-<div style="text-align:center">
-  <img src="https://github.com/Augustus-ThanhHuy/Temperature-PID-Controller-for-ARM-Cortex-M-STM32F103C8T6-/assets/109091737/439a62bc-b144-4284-87a1-d8b772d855cb" alt="Temperature" width="300"/>
+<div style="display:flex; justify-content:center;">
+  <div style="width:300px;">
+    <img src="https://github.com/Augustus-ThanhHuy/Temperature-PID-Controller-for-ARM-Cortex-M-STM32F103C8T6-/assets/109091737/439a62bc-b144-4284-87a1-d8b772d855cb" alt="Temperature" style="width:100%; height:auto;">
+  </div>
 </div>
