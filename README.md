@@ -18,6 +18,6 @@ Image displayed on LCD when temperature reaches setpoint and fluctuates stably w
 
 <div style="display:flex; justify-content:center;">
   <div style="width:300px;">
-    <img src="https://github.com/Augustus-ThanhHuy/Temperature-PID-Controller-for-ARM-Cortex-M-STM32F103C8T6-/assets/109091737/439a62bc-b144-4284-87a1-d8b772d855cb" alt="Temperature" style="width:100%; height:auto;">
+    <img src="https://github.com/Augustus-ThanhHuy/Temperature-PID-Controller-for-ARM-Cortex-M-STM32F103C8T6-/assets/109091737/439a62bc-b144-4284-87a1-d8b772d855cb" alt="Temperature" style="width:60%; height:auto;">
   </div>
 </div>
