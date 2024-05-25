@@ -1,4 +1,4 @@
-# **Temperature PID Controller for ARM Cortex M (STM32F103C8T6))**
+# **Temperature PID Controller for ARM Cortex M (STM32F103C8T6)**
 ## Introduction
 This is project about the STM32F103C8T6 microcontroller
 It has all the functions of a thermostat including:
