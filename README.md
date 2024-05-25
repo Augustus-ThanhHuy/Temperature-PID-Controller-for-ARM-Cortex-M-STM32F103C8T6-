@@ -25,15 +25,15 @@ Image displayed on LCD when temperature reaches setpoint and fluctuates stably w
 The screen displays the relationship between set point and temperature through STMStudio software
 
 <div style="display: flex; justify-content: center;">
-  <div style="width: 300px; height: 300px; border: 1px solid #ccc; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/Augustus-ThanhHuy/Temperature-PID-Controller-for-ARM-Cortex-M-STM32F103C8T6-/assets/109091737/e83ac2f9-a052-4f61-b293-791afe0bcaeb" alt="PID" style="max-width: 60%; max-height: 100%;">
+   <div style="width:300px;">
+    <img src="https://github.com/Augustus-ThanhHuy/Temperature-PID-Controller-for-ARM-Cortex-M-STM32F103C8T6-/assets/109091737/e83ac2f9-a052-4f61-b293-791afe0bcaeb"  style="width:60%; height:auto;">
   </div>
 </div>
 
 Overview image when setting up the project
 
 <div style="display: flex; justify-content: center;">
-  <div style="width: 300px; height: 300px; border: 1px solid #ccc; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/Augustus-ThanhHuy/Temperature-PID-Controller-for-ARM-Cortex-M-STM32F103C8T6-/assets/109091737/9c09c378-eaa1-4794-863c-f6102c0d5981" alt="Tổng quan mô hình" style="max-width: 100%; max-height: 100%;">
+    <div style="width:300px;">
+    <img src="https://github.com/Augustus-ThanhHuy/Temperature-PID-Controller-for-ARM-Cortex-M-STM32F103C8T6-/assets/109091737/9c09c378-eaa1-4794-863c-f6102c0d5981" alt="Tổng quan mô hình"  style="width:60%; height:auto;">
   </div>
 </div>
