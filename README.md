@@ -23,3 +23,9 @@ Image displayed on LCD when temperature reaches setpoint and fluctuates stably w
 </div>
 
 The screen displays the relationship between set point and temperature through STMStudio software
+
+<div style="display:flex; justify-content:center;">
+  <div style="width:300px; height:300px; border:1px solid #ccc; overflow:hidden;">
+    <img src="https://github.com/Augustus-ThanhHuy/Temperature-PID-Controller-for-ARM-Cortex-M-STM32F103C8T6-/assets/109091737/4b749a6e-6ac0-4e50-83ba-82c893a8a69e" alt="Tổng quan mô hình" style="width:100%; height:auto;">
+  </div>
+</div>
